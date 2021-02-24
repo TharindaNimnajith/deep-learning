@@ -1,0 +1,14 @@
+/.idea
+/.ipynb_checkpoints
+/venv
+
+/glove.6B
+/quora-question-pairs
+/sick
+
+*.csv
+*.h5
+*.pickle
+*.sav
+
+glove.6B.300d.txt
